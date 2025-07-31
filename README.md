@@ -1,6 +1,7 @@
 Image-classification-model -- Car vs Bike Image Classification App - README
 
 📌 Features:
+
 ✅ Upload images and get instant predictions  
 ✅ Backend hosted using Modal  
 ✅ Interactive frontend using Streamlit  
@@ -10,6 +11,7 @@ Image-classification-model -- Car vs Bike Image Classification App - README
 
 
 🗂️ Project Structure:
+
 image-classification-model/
 ├── Car_vs_Bike_Classifier_Categorical.ipynb    # Model training notebook
 ├── app.py                       # Modal backend API (FastAPI-style)
@@ -19,6 +21,7 @@ image-classification-model/
 
 
 📚 Dataset:
+
 - Images sourced from open datasets (Kaggle) and Google Images.
 - Two classes: Car and Bike.
 - Training images resized to 150x150 pixels.
@@ -26,6 +29,7 @@ image-classification-model/
 
   
 🧠 Model Training:
+
 - Framework: TensorFlow/Keras
 - Layers:
   - Conv2D + MaxPooling
@@ -44,6 +48,7 @@ modal deploy app.py
 
 
 🌐 Streamlit Frontend:
+
 - Modern web UI with Streamlit
 - Features:
   - Hero header and custom styles
@@ -75,14 +80,16 @@ matplotlib
 
 
 
-💡 Future Improvements
+💡 Future Improvements:
+
 - Add actual confidence score instead of fixed 95%
 - Extend support for multi-class classification
 - Add dynamic carousel
 - Export reports as .pdf or .csv
 
   
-✅ Submission Instructions
+✅ Submission Instructions:
+
 - Push all code to a public GitHub repository
 - Include:
   - car_bike_classifier.ipynb
@@ -94,7 +101,7 @@ matplotlib
 - Submit repo link via Google Form
 
 
-👨‍💻 About Us
+👨‍💻 About Us - 
 This application was developed as a full ML deployment project.
 Made with ❤️ by vijaay | GitHub: @vijaay10
 
