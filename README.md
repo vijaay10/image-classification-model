@@ -88,17 +88,15 @@ matplotlib
 - Export reports as .pdf or .csv
 
   
-✅ Submission Instructions:
+✅ Submission:
 
-- Push all code to a public GitHub repository
-- Include:
   - car_bike_classifier.ipynb
   - app.py
   - streamlit_app.py
   - requirements.txt
   - README.md
   - car_bike_model.h5 (host externally if >25MB)
-- Submit repo link via Google Form
+
 
 
 👨‍💻 About Us - 
