@@ -1,0 +1,17 @@
+# Core Libraries
+tensorflow==2.13.0
+numpy
+Pillow
+
+# Web & API
+fastapi[standard]
+uvicorn
+
+# Modal backend (deployment tool)
+modal-client
+
+# Streamlit frontend
+streamlit
+
+# For image handling and file uploads
+python-multipart
